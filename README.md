@@ -1,16 +1,32 @@
-## Hi there 👋
+ 🎓 BCA Graduate  
+🐍 Python Learner  
+🤖 Interested in Machine Learning & Data Analysis  
 
-<!--
-**Gayanaerappa/gayanaerappa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔧 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=pandas" />
+  <img src="https://skillicons.dev/icons?i=numpy" />
+  <img src="https://skillicons.dev/icons?i=sklearn" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
+
+---
+
+## 📌 Projects
+
+- Quiz Application (Python)
+- Contact Book (Python)
+- Pandas Data Analysis Practice
+- Machine Learning Practice Programs
+
+---
+
+## 📫 Contact
+
+Email: gayanerappa2027@gmail.com
+ 
