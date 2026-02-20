@@ -1,7 +1,8 @@
- 🎓 BCA Graduate  
-🐍 Python Learner  
+🎓 BCA Graduate  
+🐍 Python Learner & Developer  
 🤖 Interested in Machine Learning & Data Analysis  
-
+📊 Exploring Data Science & Real-World Projects  
+🚀 Passionate About Building Practical Applications 
 ---
 
 ## 🔧 Skills
