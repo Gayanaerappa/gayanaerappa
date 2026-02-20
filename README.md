@@ -7,17 +7,21 @@
 
 ## 🔧 Skills
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=powerbi" />
-  <img src="https://skillicons.dev/icons?i=excel" />
-  <img src="https://skillicons.dev/icons?i=numpy" />
-  <img src="https://skillicons.dev/icons?i=pandas" />
-  <img src="https://skillicons.dev/icons?i=matplotlib" />
-  <img src="https://skillicons.dev/icons?i=scikitlearn" />
-</p>
+**Programming & Development**  
+✔ Python  
+✔ Java  
+✔ HTML  
+✔ CSS  
 
+**Data & Analysis**  
+✔ Pandas  
+✔ NumPy  
+✔ Matplotlib  
+✔ SQL / MySQL  
+
+**Tools & Platforms**  
+✔ Power BI  
+✔ Excel  
 ---
 
 ## 📌 Projects
