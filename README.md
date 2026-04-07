@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Gayana
+# Hi there 👋 I'm Gayana Erappa
 
 🎓 BCA Graduate  
 🐍 Python Learner & Developer  
