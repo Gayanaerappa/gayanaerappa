@@ -59,7 +59,7 @@
 ✔ Machine Learning  
 ✔ Data Analysis  
 ✔ Real-World Python Projects
-✔ Data Science
+✔ Data Science with Artificial Inteligence
 
 
 ---
