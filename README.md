@@ -8,7 +8,7 @@
 
 ---
 
-## 🔧 Skills
+## 🔧 Skills 
 
 ### 🖥 Programming & Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -58,7 +58,9 @@
 
 ✔ Machine Learning  
 ✔ Data Analysis  
-✔ Real-World Python Projects  
+✔ Real-World Python Projects
+✔ Data Science
+
 
 ---
 
