@@ -3,8 +3,8 @@
 🎓 BCA Graduate  
 🐍 Python Learner & Developer  
 🤖 Interested in Machine Learning & Data Analysis  
-📊 Exploring Data Science & Real-World Projects  
-🚀 Continuously Improving Through Daily Practice  
+📊 Exploring Data Science & Real-World Projects. 
+🚀 Continuously Improving Through Daily Practice.  
 
 ---
 
