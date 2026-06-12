@@ -51,6 +51,8 @@
 🔹 Contact Book System  
 🔹 Pandas Data Analysis Practice  
 🔹 Machine Learning Practice Programs  
+ 🔹  Car Price Prediction
+  
 
 ---
 
